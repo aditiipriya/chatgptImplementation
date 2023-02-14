@@ -1,0 +1,13 @@
+NODE_ENV=local
+TAG=localhost
+
+PROJECT_NAME=Chatgpt-Implementation
+
+DEBUG=true
+
+HOMEPATH=http://localhost:5003/
+
+BASEPATH=
+
+PORT=5003
+OPEN_AI_KEY=
